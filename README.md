@@ -10,17 +10,17 @@ This project is a Hospital Record System designed to manage patient records effi
 
 ## Features
 
-- **User Authentication:** Secure login system to access and manage patient records.
-- **Record Management:** Add, list, search, edit, and delete patient records.
-- **Data Validation:** Ensure that the entered data is valid and follows specific criteria.
-- **File Storage:** Patient records are stored in a file for persistent data.
+- User Authentication: Secure login system to access and manage patient records.
+- Record Management:add, list, search, edit, and delete patient records.
+- Data Validation: Ensure that the entered data is valid and follows specific criteria.
+- File Storage: Patient records are stored in a file for persistent data.
 
 ## Getting Started
 
 ### Prerequisites
 
 - C++ Compiler
-- [Optional] Code::Blocks, Visual Studio, or any preferred IDE
+- [Optional] Code::Visual Studio code
 
 ### Installation
 
