@@ -16,7 +16,7 @@ int ok;
 int b, valid = 0;
 
 void welcomescreen(void);
-void title(void);admin
+void title(void);
 void mainmenu(void);
 void loginscreen(void);
 void add_rec(void);
